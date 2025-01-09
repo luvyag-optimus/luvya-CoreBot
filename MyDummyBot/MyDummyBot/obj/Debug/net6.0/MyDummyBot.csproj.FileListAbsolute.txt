@@ -1,0 +1,268 @@
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\DeploymentTemplates\DeployUseExistResourceGroup\parameters-for-template-AzureBot-with-rg.json
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\DeploymentTemplates\DeployUseExistResourceGroup\parameters-for-template-BotApp-with-rg.json
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\DeploymentTemplates\DeployUseExistResourceGroup\template-AzureBot-with-rg.json
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\DeploymentTemplates\DeployUseExistResourceGroup\template-BotApp-with-rg.json
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\DeploymentTemplates\DeployWithNewResourceGroup\parameters-for-template-AzureBot-new-rg.json
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\DeploymentTemplates\DeployWithNewResourceGroup\parameters-for-template-BotApp-new-rg.json
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\DeploymentTemplates\DeployWithNewResourceGroup\template-AzureBot-new-rg.json
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\DeploymentTemplates\DeployWithNewResourceGroup\template-BotApp-new-rg.json
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\MyDummyBot.staticwebassets.runtime.json
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\MyDummyBot.staticwebassets.endpoints.json
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\MyDummyBot.exe
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\appsettings.json
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\MyDummyBot.deps.json
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\MyDummyBot.runtimeconfig.json
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\MyDummyBot.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\MyDummyBot.pdb
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\AdaptiveCards.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\AdaptiveExpressions.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Antlr4.Runtime.Standard.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Azure.CognitiveServices.Language.LUIS.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Bot.Builder.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Bot.Builder.AI.Luis.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Bot.Builder.Dialogs.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Bot.Builder.Dialogs.Declarative.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Bot.Configuration.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Bot.Connector.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Bot.Connector.Streaming.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Bot.Schema.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Bot.Streaming.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Recognizers.Definitions.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Recognizers.Text.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Recognizers.Text.Choice.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Recognizers.Text.DataTypes.TimexExpression.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Recognizers.Text.DateTime.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Recognizers.Text.Number.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Recognizers.Text.NumberWithUnit.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\MyDummyBot.csproj.AssemblyReference.cache
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\MyDummyBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\MyDummyBot.AssemblyInfoInputs.cache
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\MyDummyBot.AssemblyInfo.cs
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\MyDummyBot.csproj.CoreCompileInputs.cache
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\MyDummyBot.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\MyDummyBot.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\scopedcss\bundle\MyDummyBot.styles.css
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\staticwebassets\msbuild.MyDummyBot.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\staticwebassets\msbuild.MyDummyBot.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\staticwebassets\msbuild.build.MyDummyBot.props
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyDummyBot.props
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyDummyBot.props
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\MyDummyBot.csproj.Up2Date
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\MyDummyBot.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\refint\MyDummyBot.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\MyDummyBot.pdb
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\MyDummyBot.genruntimeconfig.cache
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\ref\MyDummyBot.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Identity.Web.Certificateless.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\msvcp140.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\vcruntime140.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\vcruntime140_1.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Humanizer.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Bcl.HashCode.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\System.ClientModel.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\rishi.jha\OneDrive - Optimus Information Inc\Desktop\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\msvcp140.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\vcruntime140.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\vcruntime140_1.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\DeploymentTemplates\DeployUseExistResourceGroup\parameters-for-template-AzureBot-with-rg.json
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\DeploymentTemplates\DeployUseExistResourceGroup\parameters-for-template-BotApp-with-rg.json
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\DeploymentTemplates\DeployUseExistResourceGroup\template-AzureBot-with-rg.json
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\DeploymentTemplates\DeployUseExistResourceGroup\template-BotApp-with-rg.json
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\DeploymentTemplates\DeployWithNewResourceGroup\parameters-for-template-AzureBot-new-rg.json
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\DeploymentTemplates\DeployWithNewResourceGroup\parameters-for-template-BotApp-new-rg.json
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\DeploymentTemplates\DeployWithNewResourceGroup\template-AzureBot-new-rg.json
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\DeploymentTemplates\DeployWithNewResourceGroup\template-BotApp-new-rg.json
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\MyDummyBot.staticwebassets.endpoints.json
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\MyDummyBot.staticwebassets.runtime.json
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\MyDummyBot.exe
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\appsettings.json
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\MyDummyBot.deps.json
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\MyDummyBot.runtimeconfig.json
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\MyDummyBot.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\MyDummyBot.pdb
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\AdaptiveCards.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\AdaptiveExpressions.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Antlr4.Runtime.Standard.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Humanizer.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Azure.CognitiveServices.Language.LUIS.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Bcl.HashCode.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Bot.Builder.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Bot.Builder.AI.Luis.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Bot.Builder.Dialogs.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Bot.Builder.Dialogs.Declarative.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Bot.Builder.Integration.AspNet.Core.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Bot.Configuration.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Bot.Connector.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Bot.Connector.Streaming.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Bot.Schema.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Bot.Streaming.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Identity.Web.Certificateless.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Recognizers.Definitions.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Recognizers.Text.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Recognizers.Text.Choice.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Recognizers.Text.DataTypes.TimexExpression.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Recognizers.Text.DateTime.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Recognizers.Text.Number.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Recognizers.Text.NumberWithUnit.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\System.ClientModel.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\MyDummyBot.csproj.AssemblyReference.cache
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\MyDummyBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\MyDummyBot.AssemblyInfoInputs.cache
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\MyDummyBot.AssemblyInfo.cs
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\MyDummyBot.csproj.CoreCompileInputs.cache
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\MyDummyBot.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\MyDummyBot.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\scopedcss\bundle\MyDummyBot.styles.css
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\staticwebassets\msbuild.MyDummyBot.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\staticwebassets\msbuild.MyDummyBot.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\staticwebassets\msbuild.build.MyDummyBot.props
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyDummyBot.props
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyDummyBot.props
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\MyDummyBot.csproj.Up2Date
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\MyDummyBot.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\refint\MyDummyBot.dll
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\MyDummyBot.pdb
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\MyDummyBot.genruntimeconfig.cache
+C:\Users\luvya.goswami\Downloads\dummy-bot 2\dummy-bot\MyDummyBot\MyDummyBot\obj\Debug\net6.0\ref\MyDummyBot.dll

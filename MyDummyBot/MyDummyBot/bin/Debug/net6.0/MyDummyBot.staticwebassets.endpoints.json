@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "default.gr8hwpamj5.htm",
+      "AssetFile": "default.htm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19459"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nIrx/Fg61TAHSF5QbGTX+rz/v0TxfTWxbzS1u5B56/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 11:53:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gr8hwpamj5"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nIrx/Fg61TAHSF5QbGTX+rz/v0TxfTWxbzS1u5B56/I="
+        },
+        {
+          "Name": "label",
+          "Value": "default.htm"
+        }
+      ]
+    },
+    {
+      "Route": "default.htm",
+      "AssetFile": "default.htm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19459"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nIrx/Fg61TAHSF5QbGTX+rz/v0TxfTWxbzS1u5B56/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 11:53:40 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nIrx/Fg61TAHSF5QbGTX+rz/v0TxfTWxbzS1u5B56/I="
+        }
+      ]
+    }
+  ]
+}

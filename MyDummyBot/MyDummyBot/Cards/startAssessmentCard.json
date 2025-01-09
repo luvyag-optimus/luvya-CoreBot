@@ -1,0 +1,19 @@
+{
+    "type": "AdaptiveCard",
+    "body": [
+        {
+            "type": "TextBlock",
+            "size": "Medium",
+            "weight": "Bolder",
+            "text": "Welcome to Optimus Online Assessment Portal",
+            "horizontalAlignment": "Center"
+        },
+        {
+            "type": "Image",
+            "url": "https://i0.wp.com/apuzz.com/wp-content/uploads/2019/09/Optimus-Information-logo.png",
+            "horizontalAlignment": "Center"
+        }
+    ],
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.3"
+}

@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "GxMRcmBWX8sNDXfNt/VOf+0gbJfcOzS7zvqZ6/hPax0=",
+  "Source": "MyDummyBot",
+  "BasePath": "_content/MyDummyBot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyDummyBot\\wwwroot",
+      "Source": "MyDummyBot",
+      "ContentRoot": "C:\\Users\\luvya.goswami\\Downloads\\dummy-bot 2\\dummy-bot\\MyDummyBot\\MyDummyBot\\wwwroot\\",
+      "BasePath": "_content/MyDummyBot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\luvya.goswami\\Downloads\\dummy-bot 2\\dummy-bot\\MyDummyBot\\MyDummyBot\\wwwroot\\default.htm",
+      "SourceId": "MyDummyBot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luvya.goswami\\Downloads\\dummy-bot 2\\dummy-bot\\MyDummyBot\\MyDummyBot\\wwwroot\\",
+      "BasePath": "_content/MyDummyBot",
+      "RelativePath": "default#[.{fingerprint}]?.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gr8hwpamj5",
+      "Integrity": "nIrx/Fg61TAHSF5QbGTX+rz/v0TxfTWxbzS1u5B56/I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "default.gr8hwpamj5.htm",
+      "AssetFile": "C:\\Users\\luvya.goswami\\Downloads\\dummy-bot 2\\dummy-bot\\MyDummyBot\\MyDummyBot\\wwwroot\\default.htm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19459"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nIrx/Fg61TAHSF5QbGTX+rz/v0TxfTWxbzS1u5B56/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 11:53:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gr8hwpamj5"
+        },
+        {
+          "Name": "label",
+          "Value": "default.htm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nIrx/Fg61TAHSF5QbGTX+rz/v0TxfTWxbzS1u5B56/I="
+        }
+      ]
+    },
+    {
+      "Route": "default.htm",
+      "AssetFile": "C:\\Users\\luvya.goswami\\Downloads\\dummy-bot 2\\dummy-bot\\MyDummyBot\\MyDummyBot\\wwwroot\\default.htm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19459"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nIrx/Fg61TAHSF5QbGTX+rz/v0TxfTWxbzS1u5B56/I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 07 Jan 2025 11:53:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nIrx/Fg61TAHSF5QbGTX+rz/v0TxfTWxbzS1u5B56/I="
+        }
+      ]
+    }
+  ]
+}

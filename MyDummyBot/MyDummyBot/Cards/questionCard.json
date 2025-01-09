@@ -1,0 +1,60 @@
+{
+    "type": "AdaptiveCard",
+    "body": [
+        {
+            "type": "TextBlock",
+            "size": "Medium",
+            "weight": "Bolder",
+            "text": "Question - ${Q-No}"
+        },
+        {
+            "type": "ColumnSet",
+            "columns": [
+                {
+                    "type": "Column",
+                    "items": [
+                        {
+                            "type": "TextBlock",
+                            "weight": "Bolder",
+                            "text": "${database.question}",
+                            "wrap": true
+                        }
+                    ],
+                    "width": "stretch"
+                }
+            ]
+        },
+        {
+            "type": "Input.ChoiceSet",
+            "id": "selectedOption",
+            "style": "expanded",
+            "choices": [
+                {
+                    "title": "Option A",
+                    "value": "0"
+                },
+                {
+                    "title": "Option B",
+                    "value": "1"
+                },
+                {
+                    "title": "Option C",
+                    "value": "2"
+                },
+                {
+                    "title": "Option D",
+                    "value": "3"
+                }
+            ]
+        }
+    ],
+  "actions": [
+    {
+      "type": "Action.Submit",
+      "title": "Submit"
+    }
+  ],
+    "IsEnabled":false,
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "version": "1.3"
+}

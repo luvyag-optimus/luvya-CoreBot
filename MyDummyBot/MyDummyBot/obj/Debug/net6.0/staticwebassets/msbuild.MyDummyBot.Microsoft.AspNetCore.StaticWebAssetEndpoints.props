@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/MyDummyBot/default.gr8hwpamj5.htm">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\default.htm'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gr8hwpamj5"},{"Name":"integrity","Value":"sha256-nIrx/Fg61TAHSF5QbGTX\u002Brz/v0TxfTWxbzS1u5B56/I="},{"Name":"label","Value":"_content/MyDummyBot/default.htm"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"19459"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022nIrx/Fg61TAHSF5QbGTX\u002Brz/v0TxfTWxbzS1u5B56/I=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Jan 2025 11:53:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MyDummyBot/default.htm">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\default.htm'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-nIrx/Fg61TAHSF5QbGTX\u002Brz/v0TxfTWxbzS1u5B56/I="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"19459"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022nIrx/Fg61TAHSF5QbGTX\u002Brz/v0TxfTWxbzS1u5B56/I=\u0022"},{"Name":"Last-Modified","Value":"Tue, 07 Jan 2025 11:53:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
